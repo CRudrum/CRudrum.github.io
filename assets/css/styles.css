@@ -270,8 +270,9 @@ img {
   color: var(--first-color-alt);
 }
 
+
 .home__img{
-  border-radius: 10%;
+  border-radius: 1em; /* https://www.htmldog.com/references/css/properties/border-radius */
   width: 170px;
 }
 
